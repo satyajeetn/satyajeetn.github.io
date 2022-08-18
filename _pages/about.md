@@ -22,4 +22,5 @@ I am a second year Masters student in the Department of Computer Science at Geor
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.  
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
+My current project includes lower bounds on ACC circuits. 
 
