@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: COSC 240- Introduction to Algorithms (Teahing assistant)
 nav: true
 nav_order: 4
