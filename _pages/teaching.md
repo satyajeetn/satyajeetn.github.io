@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: COSC 240- Introduction to Algorithms (Teahing assistant)
 nav: true
 nav_order: 4
 ---
