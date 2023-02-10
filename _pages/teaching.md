@@ -6,8 +6,13 @@ description:
 nav: true
 nav_order: 4
 ---
-Spring 2022: COSC 240- Introduction to Algorithms (Teaching assistant). 
+I have been a TA to the following Courses:
 
 
-Fall 2022: COSC 540- Graduate Algorithms (Teaching Assistant)
+Spring 2022: COSC 240- Introduction to Algorithms 
+
+
+Fall 2022: COSC 540- Graduate Algorithms 
+
+Spring 2023: COSC 240: Introduction to Algorithms (Ongoing)
 
