@@ -24,3 +24,6 @@ I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 My current project includes lower bounds on ACC circuits. 
 
 Contact: satyajeetn2012@gmail.com
+
+Range Avoidance 
+[PDF][https://eccc.weizmann.ac.il/report/2023/021/]
