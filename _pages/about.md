@@ -28,7 +28,7 @@ Contact: satyajeetn2012@gmail.com
 **PREPRINTS**
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
-[_Karthik Gajulapalli_](https://kgajulapalli.org), [_Alexander Golovnev_](https://golovnev.org), _Satyajeet Nagargoje_, [_Sidhant Saraogi_](https://sarsid.github.io) 
+[__Karthik Gajulapalli__](https://kgajulapalli.org), [__Alexander Golovnev__](https://golovnev.org), __Satyajeet Nagargoje__, [__Sidhant Saraogi__](https://sarsid.github.io) 
 
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
 
