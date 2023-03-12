@@ -25,6 +25,8 @@ My current project includes lower bounds on ACC circuits.
 
 Contact: satyajeetn2012@gmail.com
 
+**PREPRINTS**
+
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
 [_Karthik Gajulapalli_](https://kgajulapalli.org), [_Alexander Golovnev_](https://golovnev.org), _Satyajeet Nagargoje_, [_Sidhant Saraogi_](https://sarsid.github.io) 
 
