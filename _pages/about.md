@@ -38,3 +38,13 @@ Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
 
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
 
+**Teaching**
+
+I have been a TA to the following Courses:
+
+Spring 2022: COSC 240- Introduction to Algorithms
+
+Fall 2022: COSC 540- Graduate Algorithms
+
+Spring 2023: COSC 240: Introduction to Algorithms (Ongoing)
+
