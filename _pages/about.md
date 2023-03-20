@@ -23,10 +23,9 @@ I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
 My current project includes lower bounds on ACC circuits. 
 
-Contact: 
+Contact: satyajeetn2012@gmail.com
 
-satyajeetn2012@gmail.com
-
+Address: 
 328, St. Mary's Hall
 3700 Reservoir Rd NW
 Washington, DC 20057
