@@ -48,5 +48,5 @@ Spring 2022: COSC 240- Introduction to Algorithms
 
 Fall 2022: COSC 540- Graduate Algorithms
 
-Spring 2023: COSC 240: Introduction to Algorithms (Ongoing)
+Spring 2023: COSC 240: Introduction to Algorithms 
 
