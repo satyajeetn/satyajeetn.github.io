@@ -36,7 +36,7 @@ Washington, DC 20057
 
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) 
 
-RANDOM 2023.
+_RANDOM_ _2023_.
 
 [PDF](https://arxiv.org/pdf/2303.05044.pdf)
 
