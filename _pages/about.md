@@ -34,11 +34,11 @@ Washington, DC 20057
 
 [Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms](https://arxiv.org/pdf/2303.05044.pdf)
 
-RANDOM 2023.
-
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) 
 
-[ECCC](https://eccc.weizmann.ac.il/report/2023/021/) [arXiv](https://arxiv.org/pdf/2303.05044.pdf)
+RANDOM 2023.
+
+[PDF](https://arxiv.org/pdf/2303.05044.pdf)
 
 **Teaching**
 
