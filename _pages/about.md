@@ -32,7 +32,7 @@ Washington, DC 20057
 
 **PUBLICATIONS**
 
-[Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms](https://arxiv.org/pdf/2303.05044.pdf)
+Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms
 
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) 
 
