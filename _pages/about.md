@@ -30,7 +30,7 @@ Address:
 3700 Reservoir Rd NW
 Washington, DC 20057
 
-**PREPRINTS**
+**PUBLICATIONS**
 
 [Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms](https://arxiv.org/pdf/2303.05044.pdf)
 
