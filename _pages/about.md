@@ -50,3 +50,7 @@ Fall 2022: COSC 540- Graduate Algorithms
 
 Spring 2023: COSC 240: Introduction to Algorithms 
 
+**MISC**
+
+Outside of work I do love to climb and bike. 
+
