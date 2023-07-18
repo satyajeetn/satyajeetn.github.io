@@ -41,7 +41,9 @@ _RANDOM_ _2023_.
 [PDF](https://arxiv.org/pdf/2303.05044.pdf)
 
 **THESIS WITH TYPOS AND ERRORS**
+
 Circuit Lower Bounds via Substitutions
+
 [PDF](https://repository.library.georgetown.edu/bitstream/handle/10822/1082523/Nagargoje_georgetown_0076M_15665.pdf?sequence=1&isAllowed=y)
 
 **Teaching**
