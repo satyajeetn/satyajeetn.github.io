@@ -60,5 +60,5 @@ Spring 2023: COSC 240: Introduction to Algorithms
 
 **MISC**
 
-Outside of work I do love to cook Indian food, hike, [climb]() and bike. 
+Outside of work I do love to cook Indian food, hike, climb and bike. 
 
