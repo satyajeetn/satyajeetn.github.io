@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I will be joining, Department of Computer Science at Georgetown University starting Fall 2023 as a PhD Student. Previously, I was a masters student at Georgetown University where I was and will soon continue to be advised by [Alexander Golovnev](https://golovnev.org). 
+I am a first year PhD Student at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and will soon continue to be advised by [Alexander Golovnev](https://golovnev.org). 
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
@@ -50,6 +50,8 @@ Circuit Lower Bounds via Substitutions
 
 I have been a TA to the following Courses:
 
+Fall 2023: COSC 1110-01- Math Methods for Computer Science 
+
 Spring 2022: COSC 240- Introduction to Algorithms
 
 Fall 2022: COSC 540- Graduate Algorithms
@@ -58,5 +60,5 @@ Spring 2023: COSC 240: Introduction to Algorithms
 
 **MISC**
 
-Outside of work I do love to climb and bike. 
+Outside of work I do love to cook Indian food, hike, [climb]() and bike. 
 
