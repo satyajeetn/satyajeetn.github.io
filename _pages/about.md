@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first year PhD Student at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and will soon continue to be advised by [Alexander Golovnev](https://golovnev.org). 
+I am a first year PhD Student at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and will continue to be advised by [Alexander Golovnev](https://golovnev.org). 
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
