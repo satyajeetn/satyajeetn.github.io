@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first year PhD Student at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and will continue to be advised by [Alexander Golovnev](https://golovnev.org). 
+I am a first year PhD Student at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and I am still fortunate to be advised by [Alexander Golovnev](https://golovnev.org). I also had the privilage to intern with [Pooya Hatami](https://pooyahatami.org) as a masters student. 
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
@@ -26,7 +26,7 @@ My current project includes lower bounds on ACC circuits.
 Contact: satyajeetn2012@gmail.com
 
 Address: 
-328, St. Mary's Hall
+342C, St. Mary's Hall
 3700 Reservoir Rd NW
 Washington, DC 20057
 
