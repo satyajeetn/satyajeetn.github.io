@@ -41,6 +41,7 @@ Washington, DC 20057
 
 
 
+<span style="color:blue">**Publications** text</span>
 
 **PUBLICATIONS**
 
