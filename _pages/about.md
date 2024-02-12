@@ -41,9 +41,9 @@ Washington, DC 20057
 
 
 
-<span style="color:blue">Publications</span>
+<span style="color:blue">**PUBLICATIONS**</span>
 
-**PUBLICATIONS**
+
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms
 
@@ -53,13 +53,19 @@ _RANDOM_ _2023_.
 
 [PDF](https://arxiv.org/pdf/2303.05044.pdf)
 
-**THESIS WITH TYPOS AND ERRORS**
+
+<span style="color:blue">**THESIS WITH TYPOS AND ERRORS**</span>
+
+
+
 
 Circuit Lower Bounds via Substitutions
 
 [PDF](https://repository.library.georgetown.edu/bitstream/handle/10822/1082523/Nagargoje_georgetown_0076M_15665.pdf?sequence=1&isAllowed=y)
 
-**Teaching**
+<span style="color:blue">**Teaching**</span>
+
+
 
 I have been a TA to the following Courses:
 
