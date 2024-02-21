@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a first year PhD Student at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and I am still fortunate to be advised by [Alexander Golovnev](https://golovnev.org). I also had the privilage to intern with [Pooya Hatami](https://pooyahatami.org) as a masters student. 
+I am a first year PhD Student in the [theory group](https://cstheory-georgetown.github.io) at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and I am still fortunate to be advised by [Alexander Golovnev](https://golovnev.org). I also had the privilage to intern with [Pooya Hatami](https://pooyahatami.org) as a masters student. 
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
