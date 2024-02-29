@@ -57,9 +57,6 @@ _RANDOM_ _2023_
 
 
 <br>
-<br>
-<br>
-
 <span style="color:blue">**THESIS WITH TYPOS AND ERRORS**</span>
 
 Circuit Lower Bounds via Substitutions
@@ -69,8 +66,6 @@ Circuit Lower Bounds via Substitutions
 <span style="color:blue">**Teaching**</span>
 
 
-<br>
-<br>
 I have been a TA to the following Courses:
 
 Fall 2023: COSC 1110-01- Math Methods for Computer Science 
