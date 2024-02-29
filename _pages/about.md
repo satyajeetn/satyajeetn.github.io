@@ -39,6 +39,9 @@ Washington, DC 20057
 
 
 
+<br>
+<br>
+<br>
 
 
 <span style="color:blue">**PUBLICATIONS**</span>
@@ -48,15 +51,17 @@ Washington, DC 20057
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms
 
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) 
-
 _RANDOM_ _2023_.
-
 [PDF](https://arxiv.org/pdf/2303.05044.pdf)
 
+<br>
+<br>
+<br>
 
 <span style="color:blue">**THESIS WITH TYPOS AND ERRORS**</span>
 
-
+<br>
+<br>
 
 
 Circuit Lower Bounds via Substitutions
@@ -66,7 +71,8 @@ Circuit Lower Bounds via Substitutions
 <span style="color:blue">**Teaching**</span>
 
 
-
+<br>
+<br>
 I have been a TA to the following Courses:
 
 Fall 2023: COSC 1110-01- Math Methods for Computer Science 
