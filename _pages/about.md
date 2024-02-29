@@ -48,19 +48,16 @@ Washington, DC 20057
 
 
 
-Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms[PDF](https://arxiv.org/pdf/2303.05044.pdf)
-
-[Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) 
-
-_RANDOM_ _2023_
+Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms\
+[Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) \
+[PDF](https://arxiv.org/pdf/2303.05044.pdf), _RANDOM_ _2023_ 
 
 
 
 <br>
 <span style="color:blue">**THESIS WITH TYPOS AND ERRORS**</span>
 
-Circuit Lower Bounds via Substitutions
-
+Circuit Lower Bounds via Substitutions\
 [PDF](https://repository.library.georgetown.edu/bitstream/handle/10822/1082523/Nagargoje_georgetown_0076M_15665.pdf?sequence=1&isAllowed=y)
 
 <span style="color:blue">**Teaching**</span>
