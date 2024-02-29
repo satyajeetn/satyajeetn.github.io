@@ -48,11 +48,13 @@ Washington, DC 20057
 
 
 
-Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms
+Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms[PDF](https://arxiv.org/pdf/2303.05044.pdf)
 
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) 
-_RANDOM_ _2023_.
-[PDF](https://arxiv.org/pdf/2303.05044.pdf)
+
+_RANDOM_ _2023_
+
+
 
 <br>
 <br>
