@@ -21,7 +21,6 @@ I am a first year PhD Student in the [theory group](https://cstheory-georgetown.
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
-My current project includes lower bounds on ACC circuits. 
 
 Contact: satyajeetn2012@gmail.com
 
