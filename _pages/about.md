@@ -58,7 +58,7 @@ Preprint available on [arxiv](https://arxiv.org/abs/2405.10277.pdf), [ECCC](http
 
 
 <br>
-<span style="color:blue">**THESIS WITH TYPOS AND ERRORS**</span>
+<span style="color:blue">**THESIS**</span>
 
 Circuit Lower Bounds via Substitutions\
 [PDF](https://repository.library.georgetown.edu/bitstream/handle/10822/1082523/Nagargoje_georgetown_0076M_15665.pdf?sequence=1&isAllowed=y)
