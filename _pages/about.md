@@ -51,6 +51,9 @@ Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms\
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io) \
 [PDF](https://arxiv.org/pdf/2303.05044.pdf), _RANDOM_ _2023_ 
 
+Hilbert Functions and Low-Degree Randomness Extractors\
+[Pooya Hatami](https://pooyahatami.org), [Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io),  Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)\
+[arxiv](https://arxiv.org/abs/2405.10277.pdf), [ECCC](https://eccc.weizmann.ac.il/report/2024/092/)
 
 
 <br>
