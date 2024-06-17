@@ -53,7 +53,7 @@ Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms\
 
 
 Hilbert Functions and Low-Degree Randomness Extractors\
-[Pooya Hatami](https://pooyahatami.org), [Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io),  Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)\
+[Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org),  Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)\
 Preprint available on [arxiv](https://arxiv.org/abs/2405.10277.pdf), [ECCC](https://eccc.weizmann.ac.il/report/2024/092/)
 
 
