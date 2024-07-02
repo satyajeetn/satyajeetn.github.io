@@ -52,7 +52,7 @@ Washington, DC 20057
 
 Hilbert Functions and Low-Degree Randomness Extractors\
 [Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org),  Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)\
-[arxiv](https://arxiv.org/abs/2405.10277.pdf), [ECCC](https://eccc.weizmann.ac.il/report/2024/092/)_RANDOM_ _2024_ 
+[arxiv](https://arxiv.org/abs/2405.10277.pdf), [ECCC](https://eccc.weizmann.ac.il/report/2024/092/) _RANDOM_ _2024_ 
 
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms\
