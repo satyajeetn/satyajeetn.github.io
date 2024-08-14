@@ -21,7 +21,7 @@ I am a first year PhD Student in the [theory group](https://cstheory-georgetown.
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
-
+[CV](assets/pdf/Satyajeet_CV_Phd-5.pdf)
 
 Contact: satyajeetn2012@gmail.com
 
