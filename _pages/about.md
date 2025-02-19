@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a second year PhD Student in the [theory group](https://cstheory-georgetown.github.io) at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and I am still fortunate to be advised by [Alexander Golovnev](https://golovnev.org). 
+I am a second year PhD Student in the [theory group](https://cstheory-georgetown.github.io) at [Georgetown University](https://cs.georgetown.edu). Previously, I was a masters student at Georgetown University where I was and still am fortunate to be advised by [Alexander Golovnev](https://golovnev.org). 
 
 I am interesed in Circuit Lower Bounds and Complexity theory broadly.
 
@@ -48,7 +48,9 @@ Washington, DC 20057
 <span style="color:blue">**PUBLICATIONS**</span>
 
 
-
+Efficient strong 2-source non-malleable extractor for any linear min-entropy\
+[Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/home?authuser=0), [Pranjal Dutta](https://sites.google.com/view/pduttashomepage/home?authuser=0), [Saswata Mukherjee](https://dblp.org/pid/346/0740.html), [Maciej Obremski](https://sites.google.com/view/maciejobremski)\
+Under Submission
 
 
 Hilbert Functions and Low-Degree Randomness Extractors\
