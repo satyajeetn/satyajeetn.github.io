@@ -50,7 +50,7 @@ Washington, DC 20057
 
 Efficient strong 2-source non-malleable extractor for any linear min-entropy\
 [Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/home?authuser=0), [Pranjal Dutta](https://sites.google.com/view/pduttashomepage/home?authuser=0), [Saswata Mukherjee](https://dblp.org/pid/346/0740.html),Satyajeet Nagargoje, [Maciej Obremski](https://sites.google.com/view/maciejobremski)\
-Under Submission (CRYPTO' 2025)
+Under Submission 
 
 
 Hilbert Functions and Low-Degree Randomness Extractors\
