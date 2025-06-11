@@ -34,18 +34,18 @@ Contact: satyajeetn2012@gmail.com
 
 Efficient strong 2-source non-malleable extractor for any linear min-entropy.\
 [Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/), [Pranjal Dutta](https://sites.google.com/view/pduttashomepage), [Saswata Mukherjee](https://sites.google.com/view/saswata/home), Satyajeet Nagargoje, [Maciej Obremski](https://sites.google.com/view/maciejobremski)\
-CRYPTO 2025
+_CRYPTO 2025_
 
 
 Hilbert Functions and Low-Degree Randomness Extractors.  
 [Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org), Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)  
-RANDOM 2024  
+_RANDOM 2024_  
 [PDF](https://eccc.weizmann.ac.il/report/2024/092/)
 
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io).  
-RANDOM2023  
+_RANDOM 2023_
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
 
 **MISCELLANEOUS**  
