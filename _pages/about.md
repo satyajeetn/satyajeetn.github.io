@@ -48,7 +48,7 @@ Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
 RANDOM2023
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
 
-**MISCELLANEOUS**
+**MISCELLANEOUS**  
 Outside of work I like to climb, bike and hike. 
 
 
