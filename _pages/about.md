@@ -40,7 +40,7 @@ CRYPTO 2025
 Hilbert Functions and Low-Degree Randomness Extractors.  
 [Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org), Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)  
 RANDOM 2024  
-[ECCC](https://eccc.weizmann.ac.il/report/2024/092/)
+[PDF](https://eccc.weizmann.ac.il/report/2024/092/)
 
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
