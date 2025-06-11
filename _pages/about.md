@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>St. Mary's Hall</p>
+    <p>328M</p>
+    <p>Washington, DC </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,8 +22,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 I am currently a second year Ph.D. student in the [Department of Computer Sciecne](https://cs.georgetown.edu) at [Georgetown University](https://www.google.com/search?client=safari&rls=en&q=georgetown+university&ie=UTF-8&oe=UTF-8), where I am part of the [Theory Group](https://cstheory-georgetown.github.io). Prior to this, I was a master’s student at Georgetown, where I was and still am fortunate to be advised by [Sasha Golovnev](https://golovnev.org).
