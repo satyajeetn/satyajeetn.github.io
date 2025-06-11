@@ -45,7 +45,7 @@ _RANDOM 2024_
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io).  
-_RANDOM 2023_
+_RANDOM 2023_  
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
 
 **MISCELLANEOUS**  
