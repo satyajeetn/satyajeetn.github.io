@@ -38,7 +38,7 @@ CRYPTO 2025
 
 
 Hilbert Functions and Low-Degree Randomness Extractors.  
-[Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org), Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)
+[Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org), Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)  
 RANDOM 2024  
 [ECCC](https://eccc.weizmann.ac.il/report/2024/092/)
 
