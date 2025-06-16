@@ -204,6 +204,7 @@ exclude:
   - _pages/blog.md
   - _news
   - _bibliography/*
+  - _data/*
 keep_files:
   - CNAME
   - .nojekyll
