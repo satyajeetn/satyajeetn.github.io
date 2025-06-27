@@ -26,7 +26,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a second year Ph.D. student in the [Department of Computer Sciecne](https://cs.georgetown.edu) at [Georgetown University](https://www.google.com/search?client=safari&rls=en&q=georgetown+university&ie=UTF-8&oe=UTF-8), where I am part of the [Theory Group](https://cstheory-georgetown.github.io). Prior to this, I was a master’s student at Georgetown, where I was and still am fortunate to be advised by [Sasha Golovnev](https://golovnev.org).
+I am currently a second year Ph.D. student in the [Department of Computer Science](https://cs.georgetown.edu) at [Georgetown University](https://www.google.com/search?client=safari&rls=en&q=georgetown+university&ie=UTF-8&oe=UTF-8), where I am part of the [Theory Group](https://cstheory-georgetown.github.io). Prior to this, I was a master’s student at Georgetown, where I was and still am fortunate to be advised by [Sasha Golovnev](https://golovnev.org).
 
 Contact: satyajeetn2012@gmail.com
 
@@ -43,7 +43,7 @@ _RANDOM 2024_
 [PDF](https://eccc.weizmann.ac.il/report/2024/092/)
 
 
-Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.
+Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.  
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io).  
 _RANDOM 2023_  
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
