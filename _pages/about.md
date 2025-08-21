@@ -37,7 +37,7 @@ Contact: satyajeetn2012@gmail.com
 Efficient strong 2-source non-malleable extractor for any linear min-entropy.\
 [Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/), [Pranjal Dutta](https://sites.google.com/view/pduttashomepage), [Saswata Mukherjee](https://sites.google.com/view/saswata/home), Satyajeet Nagargoje, [Maciej Obremski](https://sites.google.com/view/maciejobremski)\
 _CRYPTO 2025_  
-[ECCC](https://eccc.weizmann.ac.il/report/2025/108/) [EPRINT](https://eprint.iacr.org/2025/1421.pdf)
+[ECCC](https://eccc.weizmann.ac.il/report/2025/108/), [EPRINT](https://eprint.iacr.org/2025/1421.pdf)
 
 
 Hilbert Functions and Low-Degree Randomness Extractors.  
