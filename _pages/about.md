@@ -52,7 +52,7 @@ _RANDOM 2023_
 [PDF](https://eccc.weizmann.ac.il/report/2023/021/)
 
 **MISCELLANEOUS**  
-Outside of work I like to climb, bike and hike. Amongst some of the places I have climbed include the New River Gorge, Carderock, Stauton State Park, Annapolis Rock, Joshua Tree Natioanal Park. Yes, the guy in the [green sunhoodie](https://www.mountainproject.com/route/110261733/infatuation) is me!
+Outside of work I like to climb, bike and hike. Amongst some of the places I have climbed include the New River Gorge, Carderock, Stauton State Park, Annapolis Rock, Joshua Tree Natioanal Park. Yes, I am on mountain project and the guy in the [green sunhoodie](https://www.mountainproject.com/route/110261733/infatuation) is me!
 
 
 
