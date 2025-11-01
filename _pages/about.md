@@ -43,13 +43,13 @@ _CRYPTO 2025_
 Hilbert Functions and Low-Degree Randomness Extractors.  
 [Alexander Golovnev](https://golovnev.org), [Zeyu Guo](https://zeyuguo.bitbucket.io), [Pooya Hatami](https://pooyahatami.org), Satyajeet Nagargoje, [Chao Yan](https://sites.google.com/georgetown.edu/chao-yan/home)  
 _RANDOM 2024_  
-[ECCC](https://eccc.weizmann.ac.il/report/2024/092/), [ARCHIVE](https://arxiv.org/pdf/2405.10277)
+[ECCC](https://eccc.weizmann.ac.il/report/2024/092/), [ARXIV](https://arxiv.org/pdf/2405.10277)
 
 
 Range Avoidance for Constant-Depth Circuits: Hardness and Algorithms.  
 [Karthik Gajulapalli](https://kgajulapalli.org), [Alexander Golovnev](https://golovnev.org), Satyajeet Nagargoje, [Sidhant Saraogi](https://sarsid.github.io).  
 _RANDOM 2023_  
-[PDF](https://eccc.weizmann.ac.il/report/2023/021/)
+[PDF](https://eccc.weizmann.ac.il/report/2023/021/), [ARXIV](https://arxiv.org/pdf/2303.05044)
 
 **MISCELLANEOUS**  
 Outside of work I like to climb, bike and hike. Amongst some of the places I have climbed include the New River Gorge, Carderock, Staunton State Park, Annapolis Rock, Joshua Tree Natioanal Park. Yes, I am on mountain project and the guy in the [green sunhoodie](https://www.mountainproject.com/route/110261733/infatuation) is me!
