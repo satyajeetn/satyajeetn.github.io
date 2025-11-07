@@ -30,7 +30,8 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 I am broadly interested in Theoretical Computer Science and particularaly, Circuit Complexity and Randomness Extraction. 
 
-You can download my [CV](../assets/pdf/cv.pdf).
+[Download my CV](/assets/pdf/cv.pdf){:target="_blank"}
+
 
 
 Contact: satyajeetn2012@gmail.com
