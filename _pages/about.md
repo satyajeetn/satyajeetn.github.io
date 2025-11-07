@@ -30,7 +30,7 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 I am broadly interested in Theoretical Computer Science and particularaly, Circuit Complexity and Randomness Extraction. 
 
-[Download my CV](/assets/pdf/cv.pdf){:target="_blank"}
+[Download my CV](/assets/pdf/cv.pdf)
 
 
 
