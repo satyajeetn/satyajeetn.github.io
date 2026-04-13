@@ -6,7 +6,7 @@ subtitle: <a href='#'></a>.
 
 profile:
   align: right
-  image: IMG_4773.JPG
+  image: Sasha_House.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>St. Mary's Hall</p>
