@@ -28,7 +28,7 @@ latest_posts:
 ---
 I am a third year Ph.D. student in the [Department of Computer Science](https://cs.georgetown.edu) at [Georgetown University](https://www.google.com/search?client=safari&rls=en&q=georgetown+university&ie=UTF-8&oe=UTF-8), where I am part of the [Theory Group](https://cstheory-georgetown.github.io). Prior to this, I was a master’s student at Georgetown, where I was and still am fortunate to be advised by [Sasha Golovnev](https://golovnev.org).
 
-I am broadly interested in Theoretical Computer Science and particularly, Circuit Complexity and Randomness Extraction. 
+My research interests lie broadly in theoretical computer science, especially circuit complexity and randomness extraction.
 
 [CV](/assets/pdf/cv.pdf)
 
