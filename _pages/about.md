@@ -26,7 +26,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a fourth year Ph.D. student in the [Department of Computer Science](https://www.cs.cornell.edu) at [Cornell University](https://www.cornell.edu), where I am part of the [Theory Group](https://www.cs.cornell.edu/research%202/theory-computing). Before joining Cornell, I spent the first three years of my Ph.D. at Georgetown University, where I also received my M.S. in Computer Science.
+I am a fourth year Ph.D. student in the [Department of Computer Science](https://www.cs.cornell.edu) at [Cornell University](https://www.cornell.edu), advised by [Alexander Golovnev](https://golovnev.org) and a part of the [Theory Group](https://www.cs.cornell.edu/research%202/theory-computing). Before joining Cornell, I spent the first three years of my Ph.D. at Georgetown University, where I also received my M.S. in Computer Science.
 
 
 My research interests lie broadly in theoretical computer science, especially circuit complexity and randomness extraction.
