@@ -9,9 +9,9 @@ profile:
   image: Sasha_House.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>St. Mary's Hall</p>
-    <p>328M</p>
-    <p>Washington, DC </p>
+    <p>Gate's Hall</p>
+    <p></p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
