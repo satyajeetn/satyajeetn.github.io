@@ -40,7 +40,7 @@ Contact: satyajeetn2012@gmail.com
 **Publications**
 
 Worst-Case to Average-Case Reductions for Linear Algebra: Optimal, Simple, and General
-[Sasha Golovnev](), Satyajeet Nagargoje, [Igor Shinkar](https://www.cs.sfu.ca/~ishinkar/), [Harsimran Singh](https://sites.google.com/view/hssingh/), [Noah Stephens-Davidowitz](http://www.noahsd.com)
+[Sasha Golovnev](), Satyajeet Nagargoje, [Igor Shinkar](https://www.cs.sfu.ca/~ishinkar/), [Harsimran Singh](https://sites.google.com/view/hssingh/), [Noah Stephens-Davidowitz](http://www.noahsd.com)\
 _Under Submission_
 
 Efficient strong 2-source non-malleable extractor for any linear min-entropy.\
