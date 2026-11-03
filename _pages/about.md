@@ -38,6 +38,9 @@ My research interests lie broadly in theoretical computer science, especially ci
 Contact: satyajeetn2012@gmail.com
 
 **Publications**
+Worst-Case to Average-Case Reductions for Linear Algebra: Optimal, Simple, and General
+[Sasha Golovnev](), Satyajeet Nagargoje, [Igor Shinkar](https://www.cs.sfu.ca/~ishinkar/), [Harsimran Singh](https://sites.google.com/view/hssingh/), [Noah Stephens-Davidowitz](http://www.noahsd.com)
+_Under Submission_
 
 Efficient strong 2-source non-malleable extractor for any linear min-entropy.\
 [Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/), [Pranjal Dutta](https://sites.google.com/view/pduttashomepage), [Saswata Mukherjee](https://sites.google.com/view/saswata/home), Satyajeet Nagargoje, [Maciej Obremski](https://sites.google.com/view/maciejobremski)\
