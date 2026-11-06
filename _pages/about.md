@@ -9,7 +9,7 @@ profile:
   image: Sasha_House.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Gate's Hall</p>
+    <p>Gates Hall</p>
     <p></p>
     <p></p>
 
